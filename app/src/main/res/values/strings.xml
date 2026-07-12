@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">FreelanceJobHub</string>
+    <string name="app_tagline">Your offline freelance command center</string>
+
+    <string name="login">Log in</string>
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Keep every client, deadline, and budget close - even when the internet is not.</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="new_here">New here?</string>
+    <string name="create_account">Create an account</string>
+
+    <string name="register_title">Create your workspace</string>
+    <string name="register_subtitle">A private, offline ledger for your freelance business.</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email address</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone number</string>
+    <string name="birthdate">Birth date</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password_helper">At least 8 characters with uppercase, lowercase, and a number</string>
+    <string name="account_created">Account created. You can log in now.</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_user">Welcome back,\n%1$s</string>
+    <string name="dashboard_empty_subtitle">Start with one project. Momentum follows.</string>
+    <string name="dashboard_ready_subtitle">Your business snapshot is ready.</string>
+    <string name="portfolio_overview">Portfolio overview</string>
+    <string name="active_projects">Active</string>
+    <string name="managed_budget">Managed budget</string>
+    <string name="pending_invoices">Pending invoices</string>
+    <string name="quick_actions">Quick actions</string>
+    <string name="view_all_projects">View all projects</string>
+    <string name="add_new_project">Add new project</string>
+    <string name="manage_profile">Manage profile</string>
+    <plurals name="project_count">
+        <item quantity="one">%d total project</item>
+        <item quantity="other">%d total projects</item>
+    </plurals>
+
+    <string name="projects">Projects</string>
+    <string name="search_projects">Search title, client, or status</string>
+    <string name="projects_empty_title">No projects found</string>
+    <string name="projects_empty_message">Tap + to create your first project, or try another search.</string>
+    <string name="client_name_value">Client: %1$s</string>
+    <string name="due_date_value">Due %1$s</string>
+    <string name="no_deadline">No deadline</string>
+    <string name="edit_project">Edit project</string>
+    <string name="delete_project">Delete project</string>
+    <string name="delete_project_confirmation">Delete “%1$s”? This cannot be undone.</string>
+    <string name="project_deleted">Project deleted.</string>
+
+    <string name="project_details">Project details</string>
+    <string name="client">Client</string>
+    <string name="budget">Budget</string>
+    <string name="status">Status</string>
+    <string name="due_date">Due date</string>
+    <string name="client_phone">Client phone</string>
+    <string name="meeting_address">Meeting address</string>
+    <string name="project_description">Project brief</string>
+    <string name="not_provided">Not provided</string>
+    <string name="no_description">No project brief was added.</string>
+    <string name="call_client">Call client</string>
+    <string name="open_in_maps">Open in maps</string>
+    <string name="share_project">Share project</string>
+    <string name="project_share_text">Project: %1$s\nClient: %2$s\nStatus: %3$s\nBudget: %4$s</string>
+
+    <string name="add_project">Add project</string>
+    <string name="project_form_subtitle">Keep the essentials clear. You can always refine the details later.</string>
+    <string name="project_title">Project title</string>
+    <string name="client_name">Client name</string>
+    <string name="address_optional">Meeting address (optional)</string>
+    <string name="phone_optional">Client phone (optional)</string>
+    <string name="budget_amount">Budget amount</string>
+    <string name="select_status">Select status</string>
+    <string name="description_optional">Contract notes / description (optional)</string>
+    <string name="scan_contract_text">Scan contract text</string>
+    <string name="scanning_contract">Scanning…</string>
+    <string name="ocr_helper">Offline OCR fills the description from a photographed contract.</string>
+    <string name="create_project">Create project</string>
+    <string name="save_changes">Save changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="project_created">Project created successfully.</string>
+    <string name="project_updated">Project updated successfully.</string>
+    <string name="scan_cancelled">Scan cancelled.</string>
+    <string name="no_text_detected">No text was detected.</string>
+    <string name="text_scanned">Contract text added to the description.</string>
+
+    <string name="profile">Profile</string>
+    <string name="profile_subtitle">Your business identity stays on this device.</string>
+    <string name="change_profile_photo">Change profile photo</string>
+    <string name="save_profile">Save profile</string>
+    <string name="dial_my_number">Open my number in dialer</string>
+    <string name="security">Security</string>
+    <string name="security_subtitle">Update your password without exposing it anywhere in the app.</string>
+    <string name="current_password">Current password</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="update_password">Update password</string>
+    <string name="profile_updated">Profile updated.</string>
+    <string name="password_updated">Password updated.</string>
+    <string name="logout">Log out</string>
+    <string name="logout_confirmation">Log out of this device?</string>
+
+    <string name="error_identifier_required">Enter your email or username.</string>
+    <string name="error_password_required">Enter your password.</string>
+    <string name="error_invalid_email">Enter a valid email address.</string>
+    <string name="error_user_not_found">No account matches that email or username.</string>
+    <string name="error_incorrect_password">That password is incorrect.</string>
+    <string name="error_name_required">Enter a valid full name.</string>
+    <string name="error_email_taken">That email is already registered.</string>
+    <string name="error_invalid_username">Use 3–20 letters, numbers, or underscores.</string>
+    <string name="error_username_taken">That username is already taken.</string>
+    <string name="error_invalid_phone">Enter a valid phone number.</string>
+    <string name="error_birthdate_required">Choose a birth date.</string>
+    <string name="error_weak_password">Use 8+ characters with uppercase, lowercase, and a number.</string>
+    <string name="error_passwords_mismatch">Passwords do not match.</string>
+    <string name="error_account_exists">An account with this email or username already exists.</string>
+    <string name="error_project_title">Enter a project title of at least 3 characters.</string>
+    <string name="error_client_name">Enter the client name.</string>
+    <string name="error_invalid_budget">Enter a valid non-negative budget.</string>
+    <string name="error_due_date">Choose a due date.</string>
+    <string name="error_save_project">The project could not be saved. Please try again.</string>
+    <string name="error_project_unavailable">This project is no longer available.</string>
+    <string name="error_no_compatible_app">No compatible app is installed.</string>
+    <string name="error_camera_unavailable">The camera could not be opened.</string>
+    <string name="error_text_recognition">Text recognition failed. Try a clearer photo.</string>
+    <string name="error_image_read">The image could not be read.</string>
+
+    <string name="navigate_back">Navigate back</string>
+    <string name="edit">Edit</string>
+    <string name="profile_image">Profile image</string>
+    <string name="project_icon">Project icon</string>
+
+    <string-array name="project_statuses">
+        <item>Planning</item>
+        <item>Active</item>
+        <item>On Hold</item>
+        <item>Completed</item>
+        <item>Pending Invoice</item>
+    </string-array>
+    <string-array name="profile_image_sources">
+        <item>Choose from gallery</item>
+        <item>Take a photo</item>
+    </string-array>
+</resources>

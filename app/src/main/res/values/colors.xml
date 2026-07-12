@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#0D9488</color>
+    <color name="primary_dark">#0F766E</color>
+    <color name="primary_light">#CCFBF1</color>
+    <color name="secondary">#2563EB</color>
+    <color name="navy">#163B65</color>
+    <color name="hero_background">#163B65</color>
+    <color name="app_background">#F4F7FB</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_variant">#EEF3F8</color>
+    <color name="text_primary">#102A43</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="outline">#D7E0EA</color>
+    <color name="danger">#DC2626</color>
+    <color name="success">#15803D</color>
+    <color name="warning">#D97706</color>
+    <color name="status_active_background">#CCFBF1</color>
+    <color name="status_completed_background">#DCFCE7</color>
+    <color name="status_pending_background">#FEF3C7</color>
+    <color name="status_hold_background">#FEE2E2</color>
+    <color name="status_planning_background">#DBEAFE</color>
+    <color name="transparent">#00000000</color>
+</resources>
